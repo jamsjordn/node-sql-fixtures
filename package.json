@@ -30,25 +30,12 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "3.2.2",
-    "knex": "^0.20.3",
+    "knex": "^0.21.1",
     "lodash": "^4.17.19"
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/city41/node-sql-fixtures.git"
   },
-  "homepage": "https://github.com/city41/node-sql-fixtures",
-  "devDependencies": {
-    "chai": "^1.9.1",
-    "chai-as-promised": "^4.1.1",
-    "gulp": "^4.0.2",
-    "gulp-jshint": "^2.1.0",
-    "gulp-mocha": "^7.0.2",
-    "gulp-shell": "^0.7.1",
-    "jshint": "^2.10.3",
-    "mocha": "^6.2.2",
-    "mysql": "^2.5.2",
-    "pg": "^4.4.4",
-    "sqlite3": "^4.1.0"
-  }
+  "homepage": "https://github.com/city41/node-sql-fixtures"
 }
